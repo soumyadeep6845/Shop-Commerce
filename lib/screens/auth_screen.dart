@@ -40,7 +40,7 @@ class AuthScreen extends StatelessWidget {
                 children: [
                   Flexible(
                     child: Container(
-                      child: Image.asset('assets/images/Shopnew.png'),
+                      child: Image.asset('assets/images/shopcom.png'),
                     ),
                   ),
                   Flexible(
